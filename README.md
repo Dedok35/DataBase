@@ -7,3 +7,4 @@ https://docs.google.com/spreadsheets/d/19YFq9qX0L6fKlMVWWIzNdmBQNjr95OVrz0BklVCR
 https://docs.google.com/document/d/1PgjzqO6VP8aH1_Bz2yLl8LU0p8KcmCyh508ncfe1dvo/edit?usp=sharing - Классная работа ЗооМагазин
 https://drive.google.com/drive/folders/1DbQml36-0GEitD51jhzPpQAHZ-5ypEH8?usp=sharing - практическая работа с OBS
 https://docs.google.com/document/d/1NjxeNwa4P_IZHB6O8FxOW4hWuxrJc7hLDCrEDsh42Lc/edit?usp=sharing - ER-диаграмма по фитнесу
+https://docs.google.com/spreadsheets/d/1ulNsTn3VWAMZbWY9oYv_hu-wft-VQPDP653PCN3tgIQ/edit?usp=drivesdk - Решение линейных уравнений
